@@ -1,0 +1,2 @@
+/home/kirutheswari/programming_theory/linux_module/linux_module_no/practice_print_no.ko
+/home/kirutheswari/programming_theory/linux_module/linux_module_no/practice_print_no.o

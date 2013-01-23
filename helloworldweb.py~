@@ -1,0 +1,13 @@
+import web
+
+urls=('/(.*)/',"redirect")
+app=web.application(urls,globals())
+class redirect:
+	def GET(self,path):
+		web.seeother('/'+path)
+		return 'Hello world!'
+	
+	
+if __name__=="__main__":
+	app.run()
+	

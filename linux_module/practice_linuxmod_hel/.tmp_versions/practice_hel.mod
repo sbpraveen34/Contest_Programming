@@ -1,0 +1,2 @@
+/home/kirutheswari/programming_theory/linux_module/practice_linuxmod_hel/practice_hel.ko
+/home/kirutheswari/programming_theory/linux_module/practice_linuxmod_hel/practice_hel.o
